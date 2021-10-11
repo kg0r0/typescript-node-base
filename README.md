@@ -13,6 +13,7 @@ npm run dev
 
 # References
 - https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49
+- https://qiita.com/zaburo/items/69726cc42ef774990279
 
 # License
 
